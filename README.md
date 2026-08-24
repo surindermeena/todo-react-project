@@ -41,3 +41,8 @@ npm start
 ## Done
 
 The MEAN Stack application should now be running locally.
+
+## Screenshot
+![Project Screenshot](https://github.com/surindermeena/todo-react-project/blob/main/image1.png)
+![Project Screenshot](https://github.com/surindermeena/todo-react-project/blob/main/image2.png)
+![Project Screenshot](https://github.com/surindermeena/todo-react-project/blob/main/image3.png)
