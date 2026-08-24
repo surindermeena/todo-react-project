@@ -20,17 +20,6 @@
 ```bash
 npm install
 ```
-### 3. Setup environment
-
-Create a `.env` file in the backend folder and add your MongoDB connection and other required environment variables.
-
-Example:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-```
-
 ### 4. Start the backend
 
 ```bash
@@ -46,7 +35,6 @@ npm run dev
 ### 5. Start the frontend
 
 ```bash
-cd frontend
 npm start
 ```
 
